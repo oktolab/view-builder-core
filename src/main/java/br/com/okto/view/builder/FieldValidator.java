@@ -13,7 +13,11 @@ import com.google.gson.JsonObject;
  * TODO 
  * validar confirmAttrName
  * validar type combo - options value
- *
+ * validar email
+ * validar cpf
+ * validar phone
+ * min, max length
+ * 
  */
 public class FieldValidator {
 	
